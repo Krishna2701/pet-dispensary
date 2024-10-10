@@ -21,6 +21,7 @@ metadata:
     pagerduty.com/service-id: "P123456"
     backstage.io/techdocs-ref: dir:.
     backstage.io/lifecycle: production
+    ci-cd.backstage.io/enabled: "true"
   tags:
     - sample
     - service
